@@ -3,6 +3,27 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
 }
 
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+a:hover {
+    color: rgb(134, 102, 102);
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+h2 {
+    color: #828271;
+    font-size: 1em;
+}
+
 #principal {
     width: 900px;
 }
@@ -17,19 +38,10 @@ body {
     padding: 10px;
 }
 
-
-
-a {
-    color: #4b566a;
-    text-decoration: none;
-    font-weight: bold;
+.imagem-biografia{
     padding: 5px;
+    background-color: #c3c3ae;
 }
-
-a:hover {
-    color: rgb(134, 102, 102);
-}
-
 .centralizar{
     text-align: center;
 }
