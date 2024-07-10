@@ -1,1 +1,2 @@
 An exercise from an udemy course aimed at practicing HTML5 and mainly CSS3
+To see that exercise just download those files and open with an IDE, you also can use your browser by throwing the files on browser
